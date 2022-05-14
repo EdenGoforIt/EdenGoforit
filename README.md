@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-![info](https://github-readme-stats.vercel.app/api?username=LouisAugustine&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![info](https://github-readme-stats.vercel.app/api?username=edengoforit&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 # Skilled In Technology 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
