@@ -10,7 +10,10 @@
 ---
 
 Here are some ideas to get you started:
- 
+- 🎆 I was a top student and I will be in any places
+- 🎊 I am a very hard worker
+- 🧨 I can't really stop learning every day
+- 🎉 I have multiple memory palaces 
 - 🌱 I’m currently learning Python, React, Java, Angular, VueJs, AWS, Azure, C+, Ruby on Rails, etc
 - 😄 I’m not doing any showcases projects by downloading templates from paid sites. I want to be more honest with my competency and intelligence. 
 - 📫 How to reach me:   https://www.linkedin.com/in/eden-park-3561291a0/                    
@@ -23,8 +26,13 @@ Here are some ideas to get you started:
 
 # Skilled In Technology 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -38,7 +46,7 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # Certificates
- 
+
 
 
 
