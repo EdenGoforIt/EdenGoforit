@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 🎆 I was a top student and I will be in any places
 - 🎊 I am a very hard worker
 - 🧨 I can't really stop learning every day
-- 🎉 I have multiple memory palaces 
-- 🌱 I’m currently learning Python, React, Java, Angular, VueJs, AWS, Azure, C+, Ruby on Rails, etc
+- 🎉 I have multiple memory palaces and my ultimate goal is to memorize PI number
+- 🌱 I’m currently learning Python, React, VueJs, AWS, Azure, C+, Ruby on Rails, etc
 - 😄 I’m not doing any showcases projects by downloading templates from paid sites. I want to be more honest with my competency and intelligence. 
 - 📫 How to reach me:   https://www.linkedin.com/in/eden-park-3561291a0/                    
 
