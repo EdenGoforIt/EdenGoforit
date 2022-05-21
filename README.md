@@ -10,7 +10,7 @@
 ---
 
 Here are some ideas to get you started:
-- 🎆 I was a top student and I will be in any places
+- 🎆 I was a top student and I will be at any places
 - 🎊 I am a very hard worker
 - 🧨 I can't really stop learning every day
 - 🎉 I have multiple memory palaces and my ultimate goal is to memorizing PI number
