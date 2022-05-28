@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - 🎉 I have multiple memory palaces and my ultimate goal is to memorizing PI number
 - 🌱 I’m currently learning Python, React, VueJs, AWS, Azure, C+, Ruby on Rails, etc
 - 😄 I’m not doing any showcases projects by downloading templates from paid sites. I want to be more honest with my competency and intelligence. 
-- 📫 How to reach me:   https://www.linkedin.com/in/eden-park-3561291a0/                    
-
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eden-park-3561291a0/ )              
+- 📓 Blog: [Medium Blog](https://edengoforit.medium.com/) currently I am using Medium to write things people might be interested in and making my personal Blog with React. 
 ---
 
 
