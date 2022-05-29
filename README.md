@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 ![info](https://github-readme-stats.vercel.app/api?username=edengoforit&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 # Skilled In Technology 
+
 🅱Back-end Technologies
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -52,6 +54,7 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
 🍕Others
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
