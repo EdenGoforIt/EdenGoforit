@@ -64,8 +64,8 @@ Azure Fundamental : <kbd>Azure AZ900</kbd>
 
 Azure AI Fundamental : <kbd>Azure AI900</kbd>
 
-Azure Developing Solution: <kbd>Azure AZ204</kbd>
+Azure Developer: <kbd>Azure AZ204</kbd>
 
-
+Azure Adminiatrator: <kbd>Azure AZ104</kbd>
 
 
