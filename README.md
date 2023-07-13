@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🎊 I am a very hard worker and have a can-do-atitute
 - 🧨 I can't really stop learning every day
 - 🎉 I have multiple memory palaces and my ultimate goal is to memorizing PI number
-- 🌱 I’m currently learning Python, React, VueJs, AWS, Azure, C+, Ruby on Rails, etc
+- 🌱 I’m currently learning solution Architecture, system design, authentication and authorization frameworks, VueJs, AWS, Azure, C+, Ruby on Rails, etc
 - 😄 I’m not doing any showcases projects by downloading templates from paid sites. I want to be more honest with my competency and intelligence. 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eden-park-3561291a0/ )              
 - 📓 Blog: [Medium Blog](https://edengoforit.medium.com/) currently I am using Medium to write things people might be interested in and making my personal blog with React. 
