@@ -8,7 +8,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/eden-park-3561291a0)
  
 ---
-!! CURRENTLY, BUSY WITH THE MASTER DEGREE. I am still thriving in other ways. 
+🤩🤩🤩!! CURRENTLY, BUSY WITH THE MASTER DEGREE. I am still thriving in other ways. 
 
 Here are some ideas to get you started:
 - ❤️ C#, React, Angular, Python lover
