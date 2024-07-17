@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Eden Park** is a ✨ _highly competent_ ✨ full stack developer and a big fan of Robert C. Martin and Martin Fowler. He is equipped with a comprehensive skill set and deep understanding of software development principles, including SOLID, object-oriented programming, and best practices for creating reusable, extensible, and well-integrated code. His expertise as a developer has been consistently recognized, with multiple companies acknowledging him as a top performer. Throughout his career, he has demonstrated versatility by taking on multiple roles in software development. His experience spans front-end and back-end development, identity management, Azure development, and database development, showcasing his adaptability and broad technical expertise.
+**Eden Park** is a ✨ _highly competent_ ✨ full stack developer and a big fan of Robert C. Martin and Martin Fowler. He is equipped with a comprehensive skill set and deep understanding of software development principles, including SOLID, object-oriented programming, DDD, Event Sourcing, Architectures, and best practices for creating reusable, extensible, and well-integrated code. His expertise as a developer has been consistently recognized, with multiple companies acknowledging him as a top performer. He was a front-end, back-end, integration, and identity developer, which demonstrates his broad understanding and knowledge across various domains of software development.
 
 <i>Follow me:</i><br>
 
