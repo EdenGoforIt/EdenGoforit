@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Eden Park** is a ✨ _highly competent_ ✨ full stack developer and a big fan of Robert C. Martin and Martin Fowler. 
+**Eden Park** is a ✨ _highly competent_ ✨ full stack developer and a big fan of Robert C. Martin and Martin Fowler. He is equipped with a comprehensive skill set and deep understanding of software development principles, including SOLID, object-oriented programming, and best practices for creating reusable, extensible, and well-integrated code. His expertise as a developer has been consistently recognized, with multiple companies acknowledging him as a top performer.
 
 <i>Follow me:</i><br>
 
