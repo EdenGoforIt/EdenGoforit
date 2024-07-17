@@ -11,7 +11,7 @@
 🤩🤩🤩!! CURRENTLY, BUSY WITH THE MASTER DEGREE. I am still thriving in other ways. 
 
 Here are some ideas to get you started:
-- ❤️ C#, React, Angular, Python lover
+- ❤️ C#, Azure Cloud, React, Angular, Python lover
 - 🎆 I was a top student and I will be at any places
 - 🎊 I am a very hard worker and have a can-do-atitute
 - 🧨 I can't really stop learning every day
