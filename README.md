@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edengoforit&layout=compact&text_color=daf7dc&bg_color=151515)
-
-![info](https://api.github.com/search/commits?q=author:edengoforit+committer-date:2023-01-01..2023-12-31)
+ 
 
 ![info](https://github-readme-stats.vercel.app/api?username=edengoforit&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
