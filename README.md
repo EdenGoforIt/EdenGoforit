@@ -29,6 +29,21 @@ Here are some ideas to get you started:
 
 # Skilled In Technology 
 
+## 🛠️ Main Technologies
+
+### **C# & Angular**
+I began my career working with **C#**, **AngularJS**, and **Angular 4**. Over time I expanded that experience by upgrading and maintaining projects across **Angular 11 → 21**.  
+On the backend, I’ve worked with **.NET Framework 4.5** through to most of the modern **.NET Core** versions up to .NET 10. 
+
+### **React Ecosystem**
+I enjoy React’s lightweight, component‑driven approach to UI development. I’ve contributed to multiple React projects and worked with frameworks like **Next.js** and **Expo** to build fast, modern, user‑focused applications.
+
+### **Python**
+I’ve used Python for more than five years across personal and technical projects — AI chatbots, algorithms, data processing, and exploratory work in **data science** and **big‑data tooling**. I’ve also experimented with **Django** to broaden my backend capabilities.
+
+### **C++**
+I’ve used C++ in computer‑vision contexts with **OpenCV** and low‑level algorithms to understand how images and videos are compressed. I also used C++ extensively during advanced algorithms coursework.
+
 🅱Back-end Technologies
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
