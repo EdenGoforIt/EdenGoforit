@@ -21,12 +21,7 @@ Here are some ideas to get you started:
 - 📓 Blog: [Medium Blog](https://edengoforit.medium.com/) currently I am using Medium to write things people might be interested in and making my personal blog with React.
 - 📚 GitBook [Knowledge Center](https://app.gitbook.com/o/kF7BcyRq1A3WvvV0uQJS/c/BRAgNEH1ud9KkSE8py9w) 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edengoforit&layout=compact&text_color=daf7dc&bg_color=151515)
  
-
-![info](https://github-readme-stats.vercel.app/api?username=edengoforit&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
-
 # Skilled In Technology 
 
 ## 🛠️ Main Technologies
