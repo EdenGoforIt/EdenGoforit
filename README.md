@@ -3,10 +3,20 @@
 
 **Eden Park** is a ✨ _highly competent_ ✨ full stack developer with master's degree and a big fan of Robert C. Martin and Martin Fowler. He is equipped with a comprehensive skill set and deep understanding of software development principles, including SOLID, object-oriented programming, DDD, Architectures, and best practices for creating reusable, extensible, and well-integrated code. His expertise as a developer has been consistently recognized, with multiple companies acknowledging him as a top performer. He was a front-end, back-end, integration, and identity developer, which demonstrates his broad understanding and knowledge across various domains of software development.
 
-<i>Follow me:</i><br>
+## 📚 Knowledge Base
+[![Website](https://img.shields.io/badge/edengoforit.github.io-000000?style=for-the-badge&logo=github&logoColor=white)](https://edengoforit.github.io/)
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/eden-park-3561291a0)
- 
+---
+
+## 📓 Blog
+[![Medium](https://img.shields.io/badge/Medium-Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://edengoforit.medium.com/)
+Currently writing on Medium while building my own React‑based personal blog.
+
+---
+
+## 🤝 Follow Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eden-park-3561291a0)
+
 ---
 
 Here are some ideas to get you started:
