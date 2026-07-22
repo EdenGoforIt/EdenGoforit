@@ -13,10 +13,10 @@
 Currently writing on Medium while building my own React‑based personal blog.
 
 ---
-
+[
 ## 🤝 Follow Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eden-park-3561291a0)
-
+](url)
 ---
 
 Here are some ideas to get you started:
